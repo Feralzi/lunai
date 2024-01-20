@@ -1,0 +1,23 @@
+{
+    "game_location": {
+        "top": 123,
+        "left": 192,
+        "width": 443,
+        "height": 230
+    },
+    "done_location": {
+        "top": 183,
+        "left": 430,
+        "width": 74,
+        "height": 45
+    },
+    "reward_location": {
+        "top": 354,
+        "left": 729,
+        "width": 62,
+        "height": 31
+    },
+    "doneString": [
+        "A"
+    ]
+}

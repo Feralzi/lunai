@@ -1,0 +1,10 @@
+mss
+pyautogui
+opencv-python
+numpy
+gymnasium
+stable-baselines3
+torch
+subprocess.run
+Pillow
+easyocr

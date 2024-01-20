@@ -1,0 +1,8 @@
+{
+    "bufferSize": 150000,
+    "learningStart": 100,
+    "learningRate": 0.00025,
+    "batchSize": 1,
+    "totalTimeStep": 1000000,
+    "freqSave": 1000
+}
