@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎮 **Play model:** Choose and select a trained model to be played.<br>🔄 **Train from existing model:** Continue training from a previously trained model.<br>🆕 **Start a new model:** Creates a new model to train.<br>🕹️ **Agent actions:** Seamlessly choose what your AI actions will be.<br>📊 **Load logs:** Easily open your Tensorboard logs to view the trained model stats.<br>🎯 **Select parameters:** Click and drag to select your window, finish, and score locations.<br>📸 **Preview:** Takes a screenshot of your screen with the parameters.<br>⚙️ **Advanced Settings:** Change your model settings.<br>🖱️ **Reset Click:** Select a point on the Desktop for the agent to click once the environment resets.<br>👁️ **Ai View:** View what your agent is seeing with the current FPS and actions being taken.<br>🔢 **Use a counter as reward:** Uses a counter instead of the score location as a reward system (INCREASES AI FPS).</p>
+<p align="left">🎮 **Play model**: Choose and select a trained model to be played.<br>🔄 **Train from existing model**: Continue training from a previously trained model.<br>🆕 **Start a new model**: Creates a new model to train.<br>🕹️ **Agent actions**: Seamlessly choose what your AI actions will be.<br>📊 **Load logs**: Easily open your Tensorboard logs to view the trained model stats.<br>🎯 **Select parameters**: Click and drag to select your window, finish, and score locations.<br>📸 **Preview**: Takes a screenshot of your screen with the parameters.<br>⚙️ **Advanced Settings**: Change your model settings.<br>🖱️ **Reset Click**: Select a point on the Desktop for the agent to click once the environment resets.<br>👁️ **Ai View**: View what your agent is seeing with the current FPS and actions being taken.<br>🔢 **Use a counter as reward**: Uses a counter instead of the score location as a reward system (INCREASES AI FPS).</p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">👣 Steps to Install Dependencies</h4>
+<h2 align="left">👣 Steps to Install Dependencies</h4>
 
 ###
 
