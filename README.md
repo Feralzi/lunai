@@ -68,7 +68,7 @@
 
 ###
 
-<p align="left">https://github.com/Feralzi/lunai/assets/66142423/8e3064df-ed0d-4824-a0d8-dfe67803766e
+https://github.com/Feralzi/lunai/assets/66142423/8e3064df-ed0d-4824-a0d8-dfe67803766e
 
 >
 
