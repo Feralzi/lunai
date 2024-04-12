@@ -64,11 +64,13 @@
 
 ###
 
-<h2 align="left">📺 YouTube Guide</h2>
+<h2 align="left">📺 Video Guide</h2>
 
 ###
 
-<p align="left">https://www.youtube.com/watch?v=qzEjlsLOmnQ</p>
+<p align="left">https://github.com/Feralzi/lunai/assets/66142423/8e3064df-ed0d-4824-a0d8-dfe67803766e
+
+>
 
 ###
 
